@@ -46,8 +46,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=pietroaandrade&theme=react&hide_border=true)<br/>
+
+<div> ![](https://nirzak-streak-stats.vercel.app/?user=pietroaandrade&theme=react&hide_border=true)<br/> <div align="center">
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
